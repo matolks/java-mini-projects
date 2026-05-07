@@ -28,7 +28,7 @@ Console application using Java Streams and lambda expressions to process and tra
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 - Java
 - Maven
