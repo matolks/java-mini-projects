@@ -1,35 +1,56 @@
 # Java Mini Projects
 
-These projects were built while learning Java and experimenting with different concepts like OOP, GUI development, and streams.
+A collection of focused Java projects demonstrating object-oriented programming, GUI development, collections, and stream processing.
+
+These projects were built to practice foundational Java concepts through small, self-contained applications.
+
+---
 
 ## Projects
 
 ### 2D Drawing Application
 
-A simple Java Swing-based drawing application that allows users to draw shapes such as lines, rectangles, and ovals. Demonstrates inheritance, polymorphism, and GUI event handling.
+Java Swing-based drawing application that allows users to draw lines, rectangles, and ovals through a graphical interface.
 
 ### Loan Account
 
-A basic Java program that models a loan account and performs calculations related to loan balances and payments. Focuses on class design and fundamental object-oriented principles.
+Object-oriented Java application for modeling loan accounts and performing calculations related to balances and payments.
 
 ### Loan Account Hierarchy
 
-An extension of the loan account project that introduces inheritance and class hierarchies. Includes multiple loan types such as car loans, mortgages, and unsecured loans to demonstrate polymorphism and abstraction.
+Extension of the loan account project using inheritance and abstraction to model multiple loan types including mortgages, car loans, and unsecured loans.
 
 ### Pizza Calculator
 
-A small utility that calculates how much pizza is needed based on input parameters. Demonstrates basic logic, user input handling, and simple computation.
+Utility application that calculates pizza quantity requirements based on user input and sizing assumptions.
 
 ### Invoice Stream Processing
 
-A console-based application that uses Java Streams to sort and transform invoice data. Demonstrates use of collections, lambda expressions, and functional-style operations.
+Console-based application using Java Streams and lambda expressions to process and transform invoice data.
+
+---
 
 ## Technologies Used
 
 - Java
 - Maven
-- Java Swing (for GUI components)
+- Java Swing
+
+---
+
+## Concepts Demonstrated
+
+- Object-oriented programming
+- Inheritance and polymorphism
+- GUI development with Java Swing
+- Event-driven programming
+- Java Streams and lambda expressions
+- Collections and data processing
+
+---
 
 ## Purpose
 
-These projects were created as part of learning and practicing Java development. They are not production-level applications, but they demonstrate foundational programming concepts and problem-solving approaches.
+This repository consolidates smaller Java programs into one organized collection.
+
+The projects are not production-scale applications, but they demonstrate core Java programming concepts, application structure, and problem-solving fundamentals.
